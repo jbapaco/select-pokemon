@@ -27,3 +27,4 @@ Este ejercicio tiene como objetivo practicar el uso de la API Fetch en JavaScrip
 Este ejercicio es una introducción al uso de Fetch para obtener datos de una API y es una oportunidad para practicar habilidades básicas de JavaScript y CSS. Si tienes alguna pregunta o te enfrentas a problemas, no dudes en buscar en la documentación de la API Fetch y la API de Pokémon.
 
 Let´s CODE!
+
